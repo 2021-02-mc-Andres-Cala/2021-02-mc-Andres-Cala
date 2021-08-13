@@ -18,7 +18,7 @@ public class Taller1 {
         Scanner var = new Scanner(System.in);
         System.out.print("Hola, estas hablando con el nuevo programa de operaciones");
         System.out.print("");
-        System.out.print("¿Que operacion desea realizar? ");
+        System.out.print("Â¿Que operacion desea realizar? ");
         System.out.print("");
         System.out.print("1) Union");
         System.out.print("2) Interseccion");
@@ -102,7 +102,7 @@ public class Taller1 {
          difSim.add(elemento);
      }
      }
-     if(num1 == 1){
+     if(num1 == 4){
      System.out.println("Diferencia Simetrica = " +difSim);
      }
     }
